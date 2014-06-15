@@ -3,7 +3,7 @@
 [Jason Baldridge]: http://www.jasonbaldridge.com
 [Noah A. Smith]: http://www.cs.cmu.edu/~nasmith/
 
-# CCG Supertagger: 2014
+# CCG Supertagging: 2014
 
 This is the software used for the following publication:
 
