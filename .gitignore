@@ -18,3 +18,5 @@ eclipse-bin/
 
 .DS_Store
 
+/run
+

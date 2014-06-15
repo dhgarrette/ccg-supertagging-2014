@@ -36,7 +36,7 @@ The files should be arranged as follows:
 
 First, compile the code and generate the run script:
 
-    $ sbt start-script
+    $ ./compile
 
 * `$tagset` was tested with the following values: `ccgfeat`, `ctbfeat`, `tutfeat`
 * `$tdcut`  was tested with the following values: `0.1`, `0.01`, `0.001`, `0.0`
