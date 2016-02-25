@@ -7,7 +7,7 @@
 
 This is the software used for the following publication:
 
-> [Weakly-Supervised Bayesian Learning of a CCG Supertagger](http://www.cs.utexas.edu/~dhg/papers/garrette_dyer_baldridge_smith_conll2014.pdf)    
+> [Weakly-Supervised Bayesian Learning of a CCG Supertagger](https://aclweb.org/anthology/W/W14/W14-1615.pdf)    
 > [Dan Garrette], [Chris Dyer], [Jason Baldridge], and [Noah A. Smith]  
 > In Proceedings of CoNLL 2014  
 
